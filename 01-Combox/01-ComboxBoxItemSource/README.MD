@@ -112,3 +112,7 @@ namespace ComboxBoxItemSource
     }
 }
 ```
+
+# Reference #
+- https://www.c-sharpcorner.com/UploadFile/mahesh/wpf-combobox/
+- https://www.youtube.com/watch?v=qVIkp5Cj-7M

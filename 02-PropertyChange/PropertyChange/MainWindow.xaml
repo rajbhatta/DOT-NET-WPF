@@ -1,0 +1,23 @@
+﻿<Window x:Class="PropertyChange.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PropertyChange"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Label Content="FirstName" HorizontalAlignment="Left" Margin="54,50,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="220,56,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding Path=FirstName}"/>
+
+        <Label Content="LastName" HorizontalAlignment="Left" Margin="54,104,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="220,108,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding Path=LastName}"/>
+
+        <Label Content="FullName" HorizontalAlignment="Left" Margin="55,175,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="220,175,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding Path=FullName}"/>
+
+
+    </Grid>
+
+</Window>

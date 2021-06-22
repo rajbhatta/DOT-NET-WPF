@@ -1,0 +1,13 @@
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.exe
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.deps.json
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.runtimeconfig.json
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.runtimeconfig.dev.json
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.dll
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.pdb
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.csprojAssemblyReference.cache
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.AssemblyInfoInputs.cache
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.AssemblyInfo.cs
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.dll
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.pdb
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.genruntimeconfig.cache

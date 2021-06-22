@@ -3,7 +3,7 @@
 
 - WPF is single threaded application.
 
-<img src="img/img1.PNG"/>
+
 
 # Code with issue #
 
@@ -70,7 +70,7 @@ namespace Dispatcher
     }
 }
 ```
-
+<img src="img/img1.PNG"/>
 
 
 # Source code with dispatcher to remove this issue #

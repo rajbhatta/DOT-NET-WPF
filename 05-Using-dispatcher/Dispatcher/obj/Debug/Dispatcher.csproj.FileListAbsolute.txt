@@ -1,0 +1,15 @@
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe.config
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\bin\Debug\Dispatcher.pdb
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csprojAssemblyReference.cache
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\App.g.cs
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher_MarkupCompile.cache
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher_MarkupCompile.lref
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\MainWindow.baml
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher.g.resources
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Properties.Resources.resources
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.GenerateResource.cache
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher.exe
+C:\Users\Raj Bhatta\Desktop\DOT-NET-Revision\Dispatcher\Dispatcher\obj\Debug\Dispatcher.pdb

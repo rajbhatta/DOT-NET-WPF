@@ -3,7 +3,7 @@
 
 - WPF is single threaded application.
 
-<img src="img/img1.png"/>
+<img src="img/img1.PNG"/>
 
 # Code with issue #
 

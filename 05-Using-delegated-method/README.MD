@@ -174,3 +174,10 @@ namespace EventDelegate
 # References # 
 - https://www.youtube.com/watch?v=jQgwEsJISy0
 - https://www.tutorialsteacher.com/csharp/csharp-event
+
+
+## More references ##
+- https://stackoverflow.com/questions/44201675/null-reference-exception-when-raising-event-in-c-sharp
+- https://stackoverflow.com/questions/5766979/nullreferenceexception-when-triggering-event
+- https://stackoverflow.com/questions/6835766/why-can-a-net-delegate-not-be-declared-static
+- 

@@ -33,6 +33,6 @@ namespace MutlicastDelegation
 
 ```
 
-<img src="result.png"/>
+<img src="result.PNG"/>
 
 - The delegation printed method1 first then printed method1 and method 2 together.

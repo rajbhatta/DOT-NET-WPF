@@ -1,0 +1,13 @@
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\bin\Debug\netcoreapp3.1\MutlicastDelegation.exe
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\bin\Debug\netcoreapp3.1\MutlicastDelegation.deps.json
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\bin\Debug\netcoreapp3.1\MutlicastDelegation.runtimeconfig.json
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\bin\Debug\netcoreapp3.1\MutlicastDelegation.runtimeconfig.dev.json
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\bin\Debug\netcoreapp3.1\MutlicastDelegation.dll
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\bin\Debug\netcoreapp3.1\MutlicastDelegation.pdb
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\obj\Debug\netcoreapp3.1\MutlicastDelegation.csprojAssemblyReference.cache
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\obj\Debug\netcoreapp3.1\MutlicastDelegation.AssemblyInfoInputs.cache
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\obj\Debug\netcoreapp3.1\MutlicastDelegation.AssemblyInfo.cs
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\obj\Debug\netcoreapp3.1\MutlicastDelegation.csproj.CoreCompileInputs.cache
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\obj\Debug\netcoreapp3.1\MutlicastDelegation.dll
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\obj\Debug\netcoreapp3.1\MutlicastDelegation.pdb
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\MutlicastDelegation\MutlicastDelegation\obj\Debug\netcoreapp3.1\MutlicastDelegation.genruntimeconfig.cache

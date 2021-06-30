@@ -1,0 +1,13 @@
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\bin\Debug\netcoreapp3.1\Delegation.exe
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\bin\Debug\netcoreapp3.1\Delegation.deps.json
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\bin\Debug\netcoreapp3.1\Delegation.runtimeconfig.json
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\bin\Debug\netcoreapp3.1\Delegation.runtimeconfig.dev.json
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\bin\Debug\netcoreapp3.1\Delegation.dll
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\bin\Debug\netcoreapp3.1\Delegation.pdb
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\obj\Debug\netcoreapp3.1\Delegation.csprojAssemblyReference.cache
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\obj\Debug\netcoreapp3.1\Delegation.AssemblyInfoInputs.cache
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\obj\Debug\netcoreapp3.1\Delegation.AssemblyInfo.cs
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\obj\Debug\netcoreapp3.1\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\obj\Debug\netcoreapp3.1\Delegation.dll
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\obj\Debug\netcoreapp3.1\Delegation.pdb
+C:\Users\Raj Bhatta\Desktop\Delegation\01-Delegation-method-in-c#\Delegation\Delegation\obj\Debug\netcoreapp3.1\Delegation.genruntimeconfig.cache
